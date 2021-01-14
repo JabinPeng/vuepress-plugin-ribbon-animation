@@ -1,5 +1,5 @@
 <template>
-    <div class="RibbonAnimation">
+    <div class="RibbonAnimation" v-if="visible">
     </div>
 </template>
 
@@ -8,7 +8,8 @@
         name: 'RibbonAnimation',
         data() {
             return {
-                RIBBON_OPTION: RIBBON_OPTIONS
+                RIBBON_OPTION: RIBBON_OPTIONS,
+                visible: RIBBONANIMATION_SHOW
             }
         },
         mounted () {

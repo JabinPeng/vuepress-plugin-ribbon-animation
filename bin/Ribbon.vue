@@ -1,5 +1,5 @@
 <template>
-  <canvas id="Ribbon"></canvas>
+  <canvas id="Ribbon" v-if="visible"></canvas>
 </template>
 
 <script>
@@ -11,6 +11,7 @@
         ctx: null,
         angle: 0,
         resizeTimeout: null,
+        visible:RIBBON_SHOW,
         config: {
           size: RIBBON_SIZE,
           opacity: RIBBON_OPACITY,
