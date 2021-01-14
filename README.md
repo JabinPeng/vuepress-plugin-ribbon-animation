@@ -17,8 +17,9 @@
 ## 📎 项目配置也是很简单
 > npm install vuepress-plugin-ribbon-animation -D
 
+or
 
-> or cnpm install vuepress-plugin-ribbon-animation -D
+>cnpm install vuepress-plugin-ribbon-animation -D
 
 
 大家目前去用1.1.0的版本 前面几个是测试用的版本 其他的大家就提lssues吧
