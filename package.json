@@ -1,0 +1,16 @@
+{
+  "name": "vuepress-plugin-ribbon-animation",
+  "version": "1.0.0",
+  "description": "ribbons plugin",
+  "main": "index.js",
+  "keywords": [
+    "vuepress",
+    "ribbon",
+    "animation"
+  ],
+  "author": "JabinPeng",
+  "license": "MIT",
+  "__npminstall_done": "Wed Jan 13 2021 21:00:17 GMT+0800 (GMT+08:00)",
+  "_from": "vuepress-plugin-ribbon-animation@1.0.0",
+  "_resolved": "https://registry.npm.taobao.org/vuepress-plugin-ribbon-animation/download/vuepress-plugin-ribbon-animation-1.0.0.tgz"
+}
