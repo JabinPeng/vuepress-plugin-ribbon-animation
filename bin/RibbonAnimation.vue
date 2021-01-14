@@ -4,7 +4,6 @@
 </template>
 
 <script>
-import Ribbons from './ribbon'
     export default {
         name: 'RibbonAnimation',
         data() {
@@ -16,12 +15,8 @@ import Ribbons from './ribbon'
             if (!RIBBONANIMATION_SHOW) {
                 return
             }
-            this.initRIbbonAnimation()
-        },
-        methods: {
-            initRIbbonAnimation() {
-                new Ribbons(this.RIBBON_OPTION)
+            const Ribbons = require('./ribbon')
+            new Ribbons.default(this.RIBBON_OPTION)
         }
-    }
     }
 </script>
