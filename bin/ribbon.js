@@ -138,7 +138,6 @@
     // class constructor
     var Factory = function (options)
     {
-        console.log(options)
         this._canvas = null;
         this._context = null;
         this._sto = null;
