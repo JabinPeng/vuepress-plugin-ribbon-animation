@@ -21,8 +21,11 @@ or
 
 >cnpm install vuepress-plugin-ribbon-animation -D
 
+1.1.1 修复打包bug
+1.1.2 修复组件高度bug
+1.1.3 去掉console
 
-大家目前去用1.1.2的版本 前面几个是测试用的版本 其他的大家就提lssues吧
+大家目前去用1.1.3的版本 前面几个是测试用的版本 其他的大家就提lssues吧
 
 ```js
 // 只要把这个放进 config的plugins中就可以了 有木有很简单
