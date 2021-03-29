@@ -1,6 +1,6 @@
 ## 💌 vuepress-plugin-ribbon-animation
 
-> 项目地址：[http://www.zpzpup.com/blog]
+> 项目地址：[https://www.zpzpup.com/blog]
 
 >  vue vuepress vuepress-theme-reco vuepress-plugin-ribbon 感谢各位大佬 😁
 
