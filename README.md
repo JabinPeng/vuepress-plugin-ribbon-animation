@@ -2,7 +2,7 @@
 
 > 项目地址：[https://www.zpzpup.com/blog]
 
->  vue vuepress vuepress-theme-reco vuepress-plugin-ribbon 感谢各位大佬 😁
+>  vue vuepress vuepress-theme-reco vuepress-plugin-ribbon 感谢支持
 
 ## 📢 说明
 
